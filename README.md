@@ -5,7 +5,7 @@
 - 🌱 Currently I'm studying Python, SQL and some frameworks
 - 📫 How to reach me: brazgustavo1995@gmail.com
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" /><img src="https://bioinfo.imd.ufrn.br/static_newsletter/transcricaoemdia_old/NovEvo_site.jpg" width="50" height="50"  />
 
 
 
