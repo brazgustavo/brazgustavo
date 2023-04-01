@@ -5,8 +5,7 @@
 - 🌱 Currently I'm studying Python, SQL and some frameworks
 - 📫 How to reach me: brazgustavo1995@gmail.com
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" /><img src="https://bioinfo.imd.ufrn.br/static_newsletter/transcricaoemdia_old/NovEvo_site.jpg" width="50" height="50"  />
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" /><img src="https://bioinfo.imd.ufrn.br/static_newsletter/transcricaoemdia_old/NovEvo_site.jpg" width="50" height="50"  /><img src="https://generalbi.com/wp-content/uploads/2020/02/vbaLogo.jpg" width="50" height="50" />
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brazgustavo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
