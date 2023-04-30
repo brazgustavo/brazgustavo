@@ -13,7 +13,9 @@
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
-  <code> <img height="50" src="https://bioinfo.imd.ufrn.br/static_newsletter/transcricaoemdia_old/NovEvo_site.jpg" width="50" height="50"  
+  <code> <img height="50" src="https://bioinfo.imd.ufrn.br/static_newsletter/transcricaoemdia_old/NovEvo_site.jpg" width="50" height="50" 
+  <code> <img height="50" src="https://www.portalgsti.com.br/media/uploads/marcomascarenhas/javascript.png"></code>
+  <code> <img height="50" src="https://usemobile.com.br/wp-content/uploads/2022/08/react-native-logo.png"></code>
 </p>
 <hr>
 
