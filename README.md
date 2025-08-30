@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | React | JavaScript | Python | Node.js**  
 
 - 🔭 Currently working with **Node backend** and **React Frontend**  
-- 🌱 Continuously learning **React, Node.js, SQL** and modern features and frameworks  
+- 🌱 Continuously learning modern features and frameworks  
 - 📫 Reach me at: **brazgustavo1995@gmail.com**  
 
 ---
